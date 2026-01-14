@@ -1,2 +1,1 @@
-# ECG-Signal-Filtering-
 This was a project that I did for EE3053 (signals, systems, and signal processing) at the University of Aberdeen. We were given a raw ECG (electrocardiogram) signal and were tasked with denoising it. I learned a lot throughout this experience; it was definetly one of the more challenging projects that I have been exposed to, but the freedom that we had in desigining the filtering pipleline and the time crunch we were under made it painfully enjoyable.  
